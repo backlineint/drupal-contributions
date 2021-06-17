@@ -1,0 +1,6 @@
+{
+  "phpcs.enable": true,
+  "phpcs.standard": "/Users/brianperry/.composer/vendor/drupal/coder/coder_sniffer/Drupal",
+  "phpcbf.standard": "",
+  "phpcs.executablePath": "/Users/brianperry/.composer/vendor/bin/phpcs",
+}
